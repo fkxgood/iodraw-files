@@ -122,7 +122,7 @@
           <mxGeometry x="760" y="125" width="60" height="455" as="geometry" />
         </mxCell>
         <mxCell id="uy2ln4zJi_271SopDiRo-968" value="日&lt;br style=&quot;font-size: 19px;&quot;&gt;志&lt;br style=&quot;font-size: 19px;&quot;&gt;记&lt;br style=&quot;font-size: 19px;&quot;&gt;录" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#00CC66;strokeColor=none;fontStyle=1;fontSize=19;fontColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="690" y="245" width="60" height="226" as="geometry" />
+          <mxGeometry x="720" y="245" width="30" height="226" as="geometry" />
         </mxCell>
         <mxCell id="uy2ln4zJi_271SopDiRo-969" value="Postgres" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;align=center;fontSize=15;fontStyle=1;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="220" y="493" width="70" height="80" as="geometry" />
@@ -164,7 +164,7 @@
           <mxGeometry x="240" y="430" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="6VL-VdJOPhkA3ZGMVOKb-4" value="信息收集" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=15;fontStyle=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="250" y="440" width="120" height="35" as="geometry" />
+          <mxGeometry x="420.5" y="430" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="6VL-VdJOPhkA3ZGMVOKb-5" value="信息收集" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=15;fontStyle=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="420.5" y="390" width="120" height="35" as="geometry" />
