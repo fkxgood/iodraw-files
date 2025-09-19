@@ -91,7 +91,7 @@
         <mxCell id="uy2ln4zJi_271SopDiRo-956" value="" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#CC6600;strokeColor=none;fontSize=15;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="182" y="382" width="538" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="uy2ln4zJi_271SopDiRo-957" value="静态化" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=15;fontStyle=1;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="uy2ln4zJi_271SopDiRo-957" value="&lt;span style=&quot;font-size: 18px; text-align: left;&quot;&gt;k8s ingress（外部服务）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=15;fontStyle=1;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="200" y="260" width="460" height="35" as="geometry" />
         </mxCell>
         <mxCell id="uy2ln4zJi_271SopDiRo-958" value="公用库" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=15;fontStyle=1;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
