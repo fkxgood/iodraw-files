@@ -151,7 +151,7 @@
         <mxCell id="uy2ln4zJi_271SopDiRo-977" value="Text" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="430" y="167" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="6VL-VdJOPhkA3ZGMVOKb-1" value="信息收集" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=15;fontStyle=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="6VL-VdJOPhkA3ZGMVOKb-1" value="漏洞利用" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=15;fontStyle=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="330" y="430" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="6VL-VdJOPhkA3ZGMVOKb-2" value="漏洞扫描" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=15;fontStyle=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
