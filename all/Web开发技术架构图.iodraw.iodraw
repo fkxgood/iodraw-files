@@ -62,10 +62,10 @@
           <mxGeometry x="200" y="50" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="uy2ln4zJi_271SopDiRo-947" value="业务系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="350" y="50" width="120" height="50" as="geometry" />
+          <mxGeometry x="360" y="50" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="uy2ln4zJi_271SopDiRo-948" value="MVVM" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="520" y="50" width="120" height="50" as="geometry" />
+          <mxGeometry x="530" y="50" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="uy2ln4zJi_271SopDiRo-950" value="" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#FFB366;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="181.5" y="140" width="498.5" height="80" as="geometry" />
@@ -116,7 +116,7 @@
           <mxGeometry x="180" y="600" width="650" height="70" as="geometry" />
         </mxCell>
         <mxCell id="uy2ln4zJi_271SopDiRo-974" value="RabbitMQ&lt;br&gt;消息队列" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=15;fontStyle=1;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="180" y="620" width="120" height="40" as="geometry" />
+          <mxGeometry x="182" y="620" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uy2ln4zJi_271SopDiRo-975" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;K8S Service DNS注册发现&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=15;fontStyle=1;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="310" y="620" width="120" height="40" as="geometry" />
