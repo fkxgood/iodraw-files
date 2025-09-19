@@ -131,10 +131,10 @@
           <mxGeometry x="230" y="493" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uy2ln4zJi_271SopDiRo-970" value="Redis" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;align=center;fontSize=14;fontStyle=1;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="370" y="493" width="80" height="80" as="geometry" />
+          <mxGeometry x="340.5" y="493" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uy2ln4zJi_271SopDiRo-971" value="文件引擎" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;align=center;fontSize=15;fontStyle=1;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="520" y="493" width="90" height="80" as="geometry" />
+          <mxGeometry x="490" y="493" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uy2ln4zJi_271SopDiRo-972" value="ES" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;align=center;fontSize=15;fontStyle=1;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="639" y="493" width="100" height="80" as="geometry" />
