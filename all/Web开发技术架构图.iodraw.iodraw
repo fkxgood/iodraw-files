@@ -97,12 +97,6 @@
         <mxCell id="uy2ln4zJi_271SopDiRo-958" value="公用库" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=15;fontStyle=1;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="200" y="300" width="120" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="uy2ln4zJi_271SopDiRo-959" value="数据缓存" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=15;fontStyle=1;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="360" y="260" width="120" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="uy2ln4zJi_271SopDiRo-960" value="MVC架构" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=15;fontStyle=1;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="530" y="260" width="120" height="35" as="geometry" />
-        </mxCell>
         <mxCell id="uy2ln4zJi_271SopDiRo-961" value="业务逻辑" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=15;fontStyle=1;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="360.5" y="300" width="120" height="35" as="geometry" />
         </mxCell>
@@ -157,7 +151,7 @@
         <mxCell id="6VL-VdJOPhkA3ZGMVOKb-2" value="漏洞扫描" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=15;fontStyle=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="330" y="390" width="120" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="6VL-VdJOPhkA3ZGMVOKb-3" value="&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Pandora&amp;nbsp;C2管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=15;fontStyle=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="6VL-VdJOPhkA3ZGMVOKb-3" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Pandora&amp;nbsp;C2管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=15;fontStyle=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="457.5" y="430" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="6VL-VdJOPhkA3ZGMVOKb-4" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;逐鹿AI智能体&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=15;fontStyle=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
