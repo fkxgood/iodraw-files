@@ -101,22 +101,22 @@
           <mxGeometry x="720" y="40" width="30" height="431" as="geometry" />
         </mxCell>
         <mxCell id="uy2ln4zJi_271SopDiRo-969" value="Postgres" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;align=center;fontSize=15;fontStyle=1;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="220" y="493" width="70" height="80" as="geometry" />
+          <mxGeometry x="220" y="490" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uy2ln4zJi_271SopDiRo-970" value="Redis" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;align=center;fontSize=14;fontStyle=1;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="340.5" y="493" width="80" height="80" as="geometry" />
+          <mxGeometry x="340" y="490" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uy2ln4zJi_271SopDiRo-971" value="文件引擎" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;align=center;fontSize=15;fontStyle=1;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="472.5" y="493" width="90" height="80" as="geometry" />
+          <mxGeometry x="470" y="490" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uy2ln4zJi_271SopDiRo-972" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;LOKI日志聚合&lt;/font&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;align=center;fontSize=15;fontStyle=1;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="620" y="493" width="90" height="80" as="geometry" />
+          <mxGeometry x="620" y="490" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uy2ln4zJi_271SopDiRo-973" value="" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#663300;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="180" y="600" width="650" height="70" as="geometry" />
         </mxCell>
         <mxCell id="uy2ln4zJi_271SopDiRo-974" value="RabbitMQ&lt;br&gt;消息队列" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=15;fontStyle=1;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="190" y="620" width="120" height="40" as="geometry" />
+          <mxGeometry x="180" y="620" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uy2ln4zJi_271SopDiRo-975" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;K8S Service DNS注册发现&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=15;fontStyle=1;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="310" y="620" width="120" height="40" as="geometry" />
