@@ -157,14 +157,14 @@
         <mxCell id="6VL-VdJOPhkA3ZGMVOKb-2" value="漏洞扫描" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=15;fontStyle=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="330" y="390" width="120" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="6VL-VdJOPhkA3ZGMVOKb-3" value="信息收集" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=15;fontStyle=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="6VL-VdJOPhkA3ZGMVOKb-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6VL-VdJOPhkA3ZGMVOKb-3" target="uy2ln4zJi_271SopDiRo-971">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6VL-VdJOPhkA3ZGMVOKb-3" value="&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Pandora&amp;nbsp;C2管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=15;fontStyle=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="457.5" y="430" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="6VL-VdJOPhkA3ZGMVOKb-4" value="信息收集" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=15;fontStyle=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="590" y="430" width="120" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="6VL-VdJOPhkA3ZGMVOKb-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6VL-VdJOPhkA3ZGMVOKb-5" target="uy2ln4zJi_271SopDiRo-971">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6VL-VdJOPhkA3ZGMVOKb-5" value="口令检测" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=15;fontStyle=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="457.5" y="390" width="120" height="35" as="geometry" />
