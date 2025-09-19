@@ -89,7 +89,7 @@
           <mxGeometry x="182" y="488" width="568" height="90" as="geometry" />
         </mxCell>
         <mxCell id="uy2ln4zJi_271SopDiRo-968" value="FB&lt;div&gt;+&lt;/div&gt;&lt;div&gt;loki&lt;/div&gt;&lt;div&gt;日&lt;br style=&quot;font-size: 19px;&quot;&gt;志&lt;br style=&quot;font-size: 19px;&quot;&gt;记&lt;br style=&quot;font-size: 19px;&quot;&gt;录&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#00CC66;strokeColor=none;fontStyle=1;fontSize=19;fontColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="730" y="40" width="30" height="431" as="geometry" />
+          <mxGeometry x="730" y="40" width="40" height="431" as="geometry" />
         </mxCell>
         <mxCell id="uy2ln4zJi_271SopDiRo-969" value="Postgres" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;align=center;fontSize=15;fontStyle=1;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="220" y="490" width="70" height="80" as="geometry" />
@@ -155,7 +155,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uy2ln4zJi_271SopDiRo-967" value="K&lt;div&gt;8&lt;/div&gt;&lt;div&gt;S&lt;/div&gt;&lt;div&gt;编&lt;/div&gt;&lt;div&gt;排&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#00CC66;strokeColor=none;fontStyle=1;fontSize=19;fontColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="770" y="38" width="60" height="540" as="geometry" />
+          <mxGeometry x="780" y="38" width="60" height="540" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
