@@ -79,9 +79,6 @@
         <mxCell id="uy2ln4zJi_271SopDiRo-958" value="&lt;span style=&quot;font-size: 18px; text-align: left;&quot;&gt;k8s mesh&lt;/span&gt;&lt;span style=&quot;font-size: 18px; text-align: left; background-color: initial;&quot;&gt;（内部服务）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=15;fontStyle=1;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="330" y="300" width="230" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="uy2ln4zJi_271SopDiRo-963" value="信息收集" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=15;fontStyle=1;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="200" y="390" width="120" height="35" as="geometry" />
-        </mxCell>
         <mxCell id="uy2ln4zJi_271SopDiRo-964" value="指纹识别" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=15;fontStyle=1;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="200" y="430" width="120" height="35" as="geometry" />
         </mxCell>
@@ -114,21 +111,6 @@
         </mxCell>
         <mxCell id="uy2ln4zJi_271SopDiRo-976" value="configMap&lt;div&gt;配置中心&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=15;fontStyle=1;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="440" y="620" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="6VL-VdJOPhkA3ZGMVOKb-1" value="漏洞利用" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=15;fontStyle=1;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="330" y="430" width="120" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="6VL-VdJOPhkA3ZGMVOKb-3" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Pandora&amp;nbsp;C2管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=15;fontStyle=1;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="457.5" y="430" width="120" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="6VL-VdJOPhkA3ZGMVOKb-4" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;逐鹿AI智能体&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=15;fontStyle=1;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="590" y="430" width="120" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="6VL-VdJOPhkA3ZGMVOKb-5" value="口令检测" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=15;fontStyle=1;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="457.5" y="390" width="120" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="6VL-VdJOPhkA3ZGMVOKb-6" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Janus&amp;nbsp;webshell管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=15;fontStyle=1;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="590" y="390" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="6VL-VdJOPhkA3ZGMVOKb-9" value="gin/beego" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="330" y="155" width="103" height="50" as="geometry" />
