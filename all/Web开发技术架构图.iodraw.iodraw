@@ -151,7 +151,7 @@
         <mxCell id="6VL-VdJOPhkA3ZGMVOKb-11" value="grpc" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="567" y="155" width="103" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="6VL-VdJOPhkA3ZGMVOKb-12" value="FluentBit+Loki&lt;div&gt;日志收集&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=15;fontStyle=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="6VL-VdJOPhkA3ZGMVOKb-12" value="harbor&lt;div&gt;容器管理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=15;fontStyle=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="570" y="620" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6VL-VdJOPhkA3ZGMVOKb-13" value="Jenkins&lt;div&gt;CI/CD&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=15;fontStyle=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
