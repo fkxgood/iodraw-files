@@ -43,11 +43,11 @@
         <mxCell id="uy2ln4zJi_271SopDiRo-940" value="后端" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontStyle=1;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="106" y="180" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uy2ln4zJi_271SopDiRo-941" value="应用层" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontStyle=1;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="110" y="287.5" width="50" height="20" as="geometry" />
+        <mxCell id="uy2ln4zJi_271SopDiRo-941" value="API网关" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontStyle=1;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="110" y="287.5" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uy2ln4zJi_271SopDiRo-942" value="基础服务层" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontStyle=1;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="96" y="417" width="80" height="20" as="geometry" />
+        <mxCell id="uy2ln4zJi_271SopDiRo-942" value="微服务" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontStyle=1;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="96" y="417" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uy2ln4zJi_271SopDiRo-943" value="资源层" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontStyle=1;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="110" y="521" width="50" height="20" as="geometry" />
