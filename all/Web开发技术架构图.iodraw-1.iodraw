@@ -79,8 +79,8 @@
         <mxCell id="uy2ln4zJi_271SopDiRo-958" value="&lt;span style=&quot;font-size: 18px; text-align: left;&quot;&gt;k8s mesh&lt;/span&gt;&lt;span style=&quot;font-size: 18px; text-align: left; background-color: initial;&quot;&gt;（内部服务）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=15;fontStyle=1;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="330" y="300" width="230" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="uy2ln4zJi_271SopDiRo-964" value="指纹识别" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=15;fontStyle=1;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="200" y="430" width="120" height="35" as="geometry" />
+        <mxCell id="uy2ln4zJi_271SopDiRo-964" value="golang" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=15;fontStyle=1;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="195" y="390" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="uy2ln4zJi_271SopDiRo-966" value="" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#994C00;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="182" y="488" width="568" height="90" as="geometry" />
@@ -135,6 +135,9 @@
         </mxCell>
         <mxCell id="uy2ln4zJi_271SopDiRo-967" value="K&lt;div&gt;8&lt;/div&gt;&lt;div&gt;S&lt;/div&gt;&lt;div&gt;编&lt;/div&gt;&lt;div&gt;排&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#00CC66;strokeColor=none;fontStyle=1;fontSize=19;fontColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="780" y="38" width="60" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="anNExxYwZD3iGWiqoy46-2" value="golang" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=15;fontStyle=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="205" y="400" width="120" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
