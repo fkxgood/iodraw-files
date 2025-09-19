@@ -118,9 +118,6 @@
         <mxCell id="6VL-VdJOPhkA3ZGMVOKb-1" value="漏洞利用" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=15;fontStyle=1;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="330" y="430" width="120" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="6VL-VdJOPhkA3ZGMVOKb-2" value="漏洞扫描" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=15;fontStyle=1;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="330" y="390" width="120" height="35" as="geometry" />
-        </mxCell>
         <mxCell id="6VL-VdJOPhkA3ZGMVOKb-3" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Pandora&amp;nbsp;C2管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=15;fontStyle=1;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="457.5" y="430" width="120" height="35" as="geometry" />
         </mxCell>
