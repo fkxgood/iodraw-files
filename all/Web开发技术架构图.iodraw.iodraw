@@ -40,8 +40,8 @@
         <mxCell id="uy2ln4zJi_271SopDiRo-939" value="前端" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontStyle=1;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="110" y="61" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="uy2ln4zJi_271SopDiRo-940" value="接口层" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontStyle=1;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="106" y="180" width="50" height="20" as="geometry" />
+        <mxCell id="uy2ln4zJi_271SopDiRo-940" value="后端" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontStyle=1;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="106" y="180" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uy2ln4zJi_271SopDiRo-941" value="应用层" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontStyle=1;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="110" y="287.5" width="50" height="20" as="geometry" />
