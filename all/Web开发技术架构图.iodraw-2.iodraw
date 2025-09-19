@@ -5,7 +5,7 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="uy2ln4zJi_271SopDiRo-933" value="技&lt;br style=&quot;font-size: 30px;&quot;&gt;术&lt;br style=&quot;font-size: 30px;&quot;&gt;架&lt;br style=&quot;font-size: 30px;&quot;&gt;构" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00CC66;fontColor=#FFFFFF;fontStyle=1;fontSize=30;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="40" y="40" width="60" height="640" as="geometry" />
+          <mxGeometry x="30" y="40" width="60" height="640" as="geometry" />
         </mxCell>
         <mxCell id="uy2ln4zJi_271SopDiRo-934" value="" style="endArrow=none;dashed=1;html=1;exitX=1.017;exitY=0.12;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.02;entryY=0.177;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uy2ln4zJi_271SopDiRo-933" target="uy2ln4zJi_271SopDiRo-968" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -47,7 +47,7 @@
           <mxGeometry x="110" y="521" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="uy2ln4zJi_271SopDiRo-944" value="微服务管理" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontStyle=1;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="100" y="630" width="100" height="30" as="geometry" />
+          <mxGeometry x="95" y="630" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uy2ln4zJi_271SopDiRo-945" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCC99;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="180" y="40" width="520" height="70" as="geometry" />
