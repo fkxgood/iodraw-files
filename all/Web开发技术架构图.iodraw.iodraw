@@ -151,6 +151,9 @@
         <mxCell id="6VL-VdJOPhkA3ZGMVOKb-11" value="grpc" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="567" y="155" width="103" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="6VL-VdJOPhkA3ZGMVOKb-12" value="configMap&lt;div&gt;配置中心&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=15;fontStyle=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="590" y="617.5" width="120" height="35" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
