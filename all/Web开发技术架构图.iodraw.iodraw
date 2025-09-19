@@ -94,7 +94,7 @@
         <mxCell id="uy2ln4zJi_271SopDiRo-957" value="&lt;span style=&quot;font-size: 18px; text-align: left;&quot;&gt;k8s ingress（外部服务）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=15;fontStyle=1;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="200" y="260" width="460" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="uy2ln4zJi_271SopDiRo-958" value="公用库" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=15;fontStyle=1;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="uy2ln4zJi_271SopDiRo-958" value="&lt;span style=&quot;font-size: 18px; text-align: left;&quot;&gt;k8s mesh&lt;/span&gt;&lt;span style=&quot;font-size: 18px; text-align: left; background-color: initial;&quot;&gt;（内部服务）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=15;fontStyle=1;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="200" y="300" width="460" height="35" as="geometry" />
         </mxCell>
         <mxCell id="uy2ln4zJi_271SopDiRo-963" value="信息收集" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=15;fontStyle=1;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
