@@ -74,7 +74,7 @@
           <mxGeometry x="181.5" y="140" width="498.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uy2ln4zJi_271SopDiRo-952" value="Nginx&lt;br style=&quot;font-size: 15px;&quot;&gt;反向代理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="300.5" y="155" width="103" height="50" as="geometry" />
+          <mxGeometry x="203.5" y="155" width="103" height="50" as="geometry" />
         </mxCell>
         <mxCell id="uy2ln4zJi_271SopDiRo-955" value="" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#FF9933;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="182" y="250" width="498" height="90" as="geometry" />
@@ -144,6 +144,12 @@
         </mxCell>
         <mxCell id="6VL-VdJOPhkA3ZGMVOKb-6" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Janus&amp;nbsp;webshell管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=15;fontStyle=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="590" y="390" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="6VL-VdJOPhkA3ZGMVOKb-9" value="Nginx&lt;br style=&quot;font-size: 15px;&quot;&gt;反向代理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="330" y="155" width="103" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6VL-VdJOPhkA3ZGMVOKb-10" value="Nginx&lt;br style=&quot;font-size: 15px;&quot;&gt;反向代理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="450" y="155" width="103" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
