@@ -52,8 +52,8 @@
         <mxCell id="uy2ln4zJi_271SopDiRo-943" value="资源层" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontStyle=1;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="110" y="521" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="uy2ln4zJi_271SopDiRo-944" value="运行环境" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontStyle=1;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="105" y="625" width="60" height="20" as="geometry" />
+        <mxCell id="uy2ln4zJi_271SopDiRo-944" value="其它服务" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontStyle=1;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="105" y="625" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uy2ln4zJi_271SopDiRo-945" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCC99;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="181" y="40" width="633" height="71" as="geometry" />
@@ -64,7 +64,7 @@
         <mxCell id="uy2ln4zJi_271SopDiRo-947" value="业务系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="352.5" y="48.5" width="120" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="uy2ln4zJi_271SopDiRo-948" value="大屏展示" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="uy2ln4zJi_271SopDiRo-948" value="MVVM" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="520" y="48.5" width="120" height="54" as="geometry" />
         </mxCell>
         <mxCell id="uy2ln4zJi_271SopDiRo-949" value="&lt;span style=&quot;white-space: normal; font-size: 15px;&quot;&gt;业务系统&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -118,7 +118,7 @@
         <mxCell id="uy2ln4zJi_271SopDiRo-973" value="" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#663300;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="181" y="600" width="649" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="uy2ln4zJi_271SopDiRo-974" value="Redis缓存" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=15;fontStyle=1;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="uy2ln4zJi_271SopDiRo-974" value="消息队列" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=15;fontStyle=1;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="200" y="618.5" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="uy2ln4zJi_271SopDiRo-975" value="Redis缓存" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=15;fontStyle=1;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
