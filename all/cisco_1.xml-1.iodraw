@@ -128,7 +128,7 @@
         <mxCell id="7oPyzOlhi_7BnHCjsvU_-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.48;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="buCe3C_Vg-7Ack-d8Def-2286" target="buCe3C_Vg-7Ack-d8Def-2290">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7oPyzOlhi_7BnHCjsvU_-2" value="Grpc" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="7oPyzOlhi_7BnHCjsvU_-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Grpc&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="750" y="450" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
