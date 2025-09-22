@@ -140,16 +140,17 @@
         <mxCell id="buCe3C_Vg-7Ack-d8Def-2321" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;服务注册与发现：&lt;span style=&quot;&quot; data-end=&quot;398&quot; data-start=&quot;377&quot;&gt;K8s Service + DNS&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;span data-end=&quot;398&quot; data-start=&quot;377&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td data-col-size=&quot;sm&quot; data-end=&quot;542&quot; data-start=&quot;528&quot;&gt;&lt;span data-end=&quot;541&quot; data-start=&quot;530&quot;&gt;服务通信与治理：k8s mesh&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;span style=&quot;background-color: initial; font-size: 12px;&quot; data-end=&quot;398&quot; data-start=&quot;377&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 12px;&quot; data-end=&quot;398&quot; data-start=&quot;377&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 12px;&quot; data-end=&quot;398&quot; data-start=&quot;377&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 12px;&quot; data-end=&quot;398&quot; data-start=&quot;377&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 12px;&quot; data-end=&quot;398&quot; data-start=&quot;377&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 12px;&quot; data-end=&quot;398&quot; data-start=&quot;377&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 12px;&quot; data-end=&quot;398&quot; data-start=&quot;377&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 12px;&quot; data-end=&quot;398&quot; data-start=&quot;377&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 12px;&quot; data-end=&quot;398&quot; data-start=&quot;377&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 12px;&quot; data-end=&quot;398&quot; data-start=&quot;377&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 12px;&quot; data-end=&quot;398&quot; data-start=&quot;377&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 12px;&quot; data-end=&quot;398&quot; data-start=&quot;377&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;配置中心：ConfigMap&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td data-col-size=&quot;md&quot; data-end=&quot;577&quot; data-start=&quot;542&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot; data-end=&quot;398&quot; data-start=&quot;377&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;日志收集：Fluent Bit + Loki&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot; data-end=&quot;398&quot; data-start=&quot;377&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;CICD：Jenkins &lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot; data-end=&quot;398&quot; data-start=&quot;377&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;容器管理：harbor&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="1420" y="-130" width="410" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="buCe3C_Vg-7Ack-d8Def-2324" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="buCe3C_Vg-7Ack-d8Def-2323" edge="1">
+        <mxCell id="buCe3C_Vg-7Ack-d8Def-2324" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="530" y="490" as="targetPoint" />
             <Array as="points">
               <mxPoint x="610" y="240" />
               <mxPoint x="610" y="490" />
             </Array>
+            <mxPoint x="740" y="240" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="buCe3C_Vg-7Ack-d8Def-2325" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.005;entryY=0.574;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="buCe3C_Vg-7Ack-d8Def-2323" target="buCe3C_Vg-7Ack-d8Def-2286" edge="1">
+        <mxCell id="buCe3C_Vg-7Ack-d8Def-2325" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.005;entryY=0.574;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="buCe3C_Vg-7Ack-d8Def-2286" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1100" y="500" as="targetPoint" />
             <Array as="points">
@@ -157,10 +158,8 @@
               <mxPoint x="1020" y="490" />
               <mxPoint x="1097" y="490" />
             </Array>
+            <mxPoint x="860" y="240" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="buCe3C_Vg-7Ack-d8Def-2323" value="&lt;span style=&quot;font-size: 18px; text-align: left;&quot;&gt;k8s ingress（外部服务）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="740" y="130" width="120" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
