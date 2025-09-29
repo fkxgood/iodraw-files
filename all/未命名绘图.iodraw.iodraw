@@ -39,7 +39,7 @@
         <mxCell id="kwFC5qOR1jeE1XiYEqNt-7" value="指纹识别" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="360" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kwFC5qOR1jeE1XiYEqNt-9" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="kwFC5qOR1jeE1XiYEqNt-9" value="漏洞扫描" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="430" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
