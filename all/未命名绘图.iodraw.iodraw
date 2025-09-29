@@ -33,8 +33,14 @@
         <mxCell id="kwFC5qOR1jeE1XiYEqNt-1" value="资产探活" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="280" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="kwFC5qOR1jeE1XiYEqNt-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kwFC5qOR1jeE1XiYEqNt-7" target="kwFC5qOR1jeE1XiYEqNt-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kwFC5qOR1jeE1XiYEqNt-7" value="指纹识别" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kwFC5qOR1jeE1XiYEqNt-9" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="430" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
