@@ -39,8 +39,14 @@
         <mxCell id="kwFC5qOR1jeE1XiYEqNt-7" value="指纹识别" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="280" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="kwFC5qOR1jeE1XiYEqNt-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kwFC5qOR1jeE1XiYEqNt-9" target="kwFC5qOR1jeE1XiYEqNt-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kwFC5qOR1jeE1XiYEqNt-9" value="智能漏洞模板选择" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="330" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kwFC5qOR1jeE1XiYEqNt-11" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="380" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
