@@ -18,11 +18,17 @@
         <mxCell id="kwFC5qOR1jeE1XiYEqNt-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kwFC5qOR1jeE1XiYEqNt-0" target="kwFC5qOR1jeE1XiYEqNt-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="kwFC5qOR1jeE1XiYEqNt-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kwFC5qOR1jeE1XiYEqNt-0" target="kwFC5qOR1jeE1XiYEqNt-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kwFC5qOR1jeE1XiYEqNt-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kwFC5qOR1jeE1XiYEqNt-0" target="kwFC5qOR1jeE1XiYEqNt-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kwFC5qOR1jeE1XiYEqNt-0" value="资产识别" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kwFC5qOR1jeE1XiYEqNt-1" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="250" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="100" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
