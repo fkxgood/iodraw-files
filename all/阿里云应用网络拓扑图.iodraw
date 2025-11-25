@@ -69,6 +69,9 @@
         <mxCell id="TFR5mBkasagYkMIJ73Cb-19" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" vertex="1" parent="1">
           <mxGeometry x="1087.5" y="715.5" width="132.5" height="84.5" as="geometry" />
         </mxCell>
+        <mxCell id="TFR5mBkasagYkMIJ73Cb-20" value="被控端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1124" y="810" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
