@@ -17,12 +17,12 @@
             <mxPoint y="2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f9D-XmoamsGJGm7qicV2-9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;fontSize=16;fontColor=#010208;" parent="1" source="f9D-XmoamsGJGm7qicV2-10" target="f9D-XmoamsGJGm7qicV2-17" edge="1">
+        <mxCell id="f9D-XmoamsGJGm7qicV2-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;fontSize=16;fontColor=#010208;" parent="1" source="f9D-XmoamsGJGm7qicV2-10" target="f9D-XmoamsGJGm7qicV2-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TFR5mBkasagYkMIJ73Cb-10" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;HTTP、HTTPS、TLS&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="f9D-XmoamsGJGm7qicV2-9">
           <mxGeometry x="-0.3647" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="29" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="f9D-XmoamsGJGm7qicV2-14" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#4D4D4D;strokeWidth=9;fillColor=none;fontSize=16;fontColor=#000000;" parent="1" vertex="1">
