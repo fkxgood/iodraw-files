@@ -20,7 +20,7 @@
         <mxCell id="f9D-XmoamsGJGm7qicV2-9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;fontSize=16;fontColor=#010208;" parent="1" source="f9D-XmoamsGJGm7qicV2-10" target="f9D-XmoamsGJGm7qicV2-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="f9D-XmoamsGJGm7qicV2-10" value="中转服务器" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CC0606;fillColor=none;fontSize=16;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;fontColor=#CC0606;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="f9D-XmoamsGJGm7qicV2-10" value="轻量级中转服务器" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CC0606;fillColor=none;fontSize=16;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;fontColor=#CC0606;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="540" y="438.5" width="140" height="231.5" as="geometry" />
         </mxCell>
         <mxCell id="f9D-XmoamsGJGm7qicV2-14" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#4D4D4D;strokeWidth=9;fillColor=none;fontSize=16;fontColor=#000000;" parent="1" vertex="1">
