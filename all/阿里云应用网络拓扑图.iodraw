@@ -61,7 +61,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TFR5mBkasagYkMIJ73Cb-17" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="400" width="120" height="80" as="geometry" />
+          <mxGeometry x="1050" y="400" width="190" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
