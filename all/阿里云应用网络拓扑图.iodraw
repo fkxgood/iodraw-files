@@ -18,7 +18,7 @@
             <mxPoint x="140" y="640" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f9D-XmoamsGJGm7qicV2-7" value="HTTP、HTTPS、TLS" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=16;fontColor=#000000;" parent="f9D-XmoamsGJGm7qicV2-6" vertex="1" connectable="0">
+        <mxCell id="f9D-XmoamsGJGm7qicV2-7" value="HTTP、HTTPS、MTLS" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=16;fontColor=#000000;" parent="f9D-XmoamsGJGm7qicV2-6" vertex="1" connectable="0">
           <mxGeometry x="-0.3516" relative="1" as="geometry">
             <mxPoint y="2" as="offset" />
           </mxGeometry>
