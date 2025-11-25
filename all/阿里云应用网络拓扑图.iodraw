@@ -23,12 +23,6 @@
         <mxCell id="f9D-XmoamsGJGm7qicV2-10" value="阿里云安全访问与安全预警" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CC0606;fillColor=none;fontSize=16;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;fontColor=#CC0606;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="540" y="438.5" width="140" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="f9D-XmoamsGJGm7qicV2-11" value="云安全中心" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#00BEF2;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.vpc;" parent="1" vertex="1">
-          <mxGeometry x="570" y="615.5" width="80" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="f9D-XmoamsGJGm7qicV2-12" value="DDos防护&lt;br&gt;" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#00BEF2;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.vmware_cloud_on_aws;" parent="1" vertex="1">
-          <mxGeometry x="570" y="734.5" width="80" height="100" as="geometry" />
-        </mxCell>
         <mxCell id="f9D-XmoamsGJGm7qicV2-13" value="云监控" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#00BEF2;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.cloudsearch;labelPosition=center;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="570" y="497" width="80" height="100" as="geometry" />
         </mxCell>
