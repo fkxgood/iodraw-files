@@ -23,9 +23,6 @@
         <mxCell id="f9D-XmoamsGJGm7qicV2-14" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#4D4D4D;strokeWidth=9;fillColor=none;fontSize=16;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="740" y="359" width="830" height="560" as="geometry" />
         </mxCell>
-        <mxCell id="f9D-XmoamsGJGm7qicV2-15" value="&lt;br style=&quot;font-size: 56px;&quot;&gt;VPC" style="verticalLabelPosition=middle;html=1;verticalAlign=middle;align=center;strokeColor=none;fillColor=#0B2063;shape=mxgraph.azure.cloud;fontSize=56;fontColor=#FFFFFF;labelPosition=center;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="837" y="216.5" width="333" height="176" as="geometry" />
-        </mxCell>
         <mxCell id="f9D-XmoamsGJGm7qicV2-16" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontSize=16;fontColor=#010208;" parent="1" source="f9D-XmoamsGJGm7qicV2-17" target="f9D-XmoamsGJGm7qicV2-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
