@@ -20,52 +20,11 @@
         <mxCell id="f9D-XmoamsGJGm7qicV2-14" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#4D4D4D;strokeWidth=9;fillColor=none;fontSize=16;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="890" y="358.69" width="830" height="560" as="geometry" />
         </mxCell>
-        <mxCell id="f9D-XmoamsGJGm7qicV2-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontSize=36;fontColor=#010208;" parent="1" target="f9D-XmoamsGJGm7qicV2-29" edge="1">
+        <mxCell id="f9D-XmoamsGJGm7qicV2-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontSize=36;fontColor=#010208;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1456" y="638.19" as="sourcePoint" />
+            <mxPoint x="1569" y="638.19" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="f9D-XmoamsGJGm7qicV2-21" value="读写" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=18;fontColor=#010208;" parent="f9D-XmoamsGJGm7qicV2-20" vertex="1" connectable="0">
-          <mxGeometry x="-0.2415" relative="1" as="geometry">
-            <mxPoint x="5" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="f9D-XmoamsGJGm7qicV2-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;fontSize=18;fontColor=#010208;" parent="1" target="f9D-XmoamsGJGm7qicV2-28" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1512" y="599.69" />
-              <mxPoint x="1512" y="482.69" />
-            </Array>
-            <mxPoint x="1456" y="599.7" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="f9D-XmoamsGJGm7qicV2-23" value="读写" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=18;fontColor=#010208;" parent="f9D-XmoamsGJGm7qicV2-22" vertex="1" connectable="0">
-          <mxGeometry x="0.0807" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="f9D-XmoamsGJGm7qicV2-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;fontSize=18;fontColor=#010208;" parent="1" target="f9D-XmoamsGJGm7qicV2-27" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1512" y="669.69" />
-              <mxPoint x="1512" y="793.69" />
-            </Array>
-            <mxPoint x="1456" y="669.7" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="f9D-XmoamsGJGm7qicV2-25" value="读写" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=18;fontColor=#010208;" parent="f9D-XmoamsGJGm7qicV2-24" vertex="1" connectable="0">
-          <mxGeometry x="0.0594" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="f9D-XmoamsGJGm7qicV2-27" value="弄错数据库服务器&lt;br&gt;Redis" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.redis;fillColor=#2E73B8;gradientColor=none;strokeColor=#4D4D4D;strokeWidth=1;fontSize=18;fontColor=#010208;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="1569" y="743.19" width="95.24" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="f9D-XmoamsGJGm7qicV2-28" value="数据库服务器RDS" style="shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.cloud.data_bricks;fillColor=#2E73B8;pointerEvents=1;fontFamily=Helvetica;fontSize=18;fontColor=#010208;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="1569" y="433.19" width="88.89" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="f9D-XmoamsGJGm7qicV2-29" value="阿里云OSS服务器" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/social-network-8/50/37-128.png;fontFamily=Helvetica;fontSize=18;fontColor=#010208;align=center;strokeColor=#4D4D4D;strokeWidth=1;fillColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="1569" y="588.19" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="f9D-XmoamsGJGm7qicV2-33" value="阿里云应用网络拓扑图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=36;fontColor=#010208;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="550" y="90" width="550" height="20" as="geometry" />
