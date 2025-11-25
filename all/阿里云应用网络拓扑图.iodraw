@@ -18,13 +18,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="f9D-XmoamsGJGm7qicV2-14" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#4D4D4D;strokeWidth=9;fillColor=none;fontSize=16;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="890" y="358.69" width="830" height="560" as="geometry" />
-        </mxCell>
-        <mxCell id="f9D-XmoamsGJGm7qicV2-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontSize=36;fontColor=#010208;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1456" y="638.19" as="sourcePoint" />
-            <mxPoint x="1569" y="638.19" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="880" y="358.69" width="830" height="560" as="geometry" />
         </mxCell>
         <mxCell id="f9D-XmoamsGJGm7qicV2-33" value="阿里云应用网络拓扑图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=36;fontColor=#010208;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="550" y="90" width="550" height="20" as="geometry" />
