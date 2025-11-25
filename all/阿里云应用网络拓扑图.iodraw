@@ -63,8 +63,8 @@
             <mxPoint x="40" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TFR5mBkasagYkMIJ73Cb-18" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="412" width="60" height="30" as="geometry" />
+        <mxCell id="TFR5mBkasagYkMIJ73Cb-18" value="容器" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1152.5" y="412.1" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
