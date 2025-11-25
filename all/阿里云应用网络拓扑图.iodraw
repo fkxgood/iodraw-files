@@ -35,7 +35,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TFR5mBkasagYkMIJ73Cb-8" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="540" y="547.94" width="140" height="181.5" as="geometry" />
+          <mxGeometry x="580" y="390.00000000000006" width="140" height="181.5" as="geometry" />
         </mxCell>
         <mxCell id="f9D-XmoamsGJGm7qicV2-10" value="轻量级中转服务器" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CC0606;fillColor=none;fontSize=16;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;fontColor=#CC0606;strokeWidth=2;" parent="TFR5mBkasagYkMIJ73Cb-8" vertex="1">
           <mxGeometry width="140" height="181.5" as="geometry" />
@@ -53,6 +53,9 @@
           <mxGeometry x="-0.3333" relative="1" as="geometry">
             <mxPoint x="40" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="TFR5mBkasagYkMIJ73Cb-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="660" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
