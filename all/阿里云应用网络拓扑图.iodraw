@@ -20,11 +20,10 @@
         <mxCell id="f9D-XmoamsGJGm7qicV2-14" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#4D4D4D;strokeWidth=9;fillColor=none;fontSize=16;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="890" y="358.69" width="830" height="560" as="geometry" />
         </mxCell>
-        <mxCell id="f9D-XmoamsGJGm7qicV2-16" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontSize=16;fontColor=#010208;" parent="1" source="f9D-XmoamsGJGm7qicV2-17" target="f9D-XmoamsGJGm7qicV2-19" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="f9D-XmoamsGJGm7qicV2-17" value="NAT网关" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.router;fillColor=none;fontSize=18;fontColor=#010208;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="935" y="605.19" width="100" height="66.39" as="geometry" />
+        <mxCell id="f9D-XmoamsGJGm7qicV2-16" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontSize=16;fontColor=#010208;" parent="1" target="f9D-XmoamsGJGm7qicV2-19" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1035" y="638.385" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="f9D-XmoamsGJGm7qicV2-18" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontSize=16;fontColor=#010208;" parent="1" source="f9D-XmoamsGJGm7qicV2-19" target="f9D-XmoamsGJGm7qicV2-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -121,7 +120,7 @@
         </mxCell>
         <mxCell id="TFR5mBkasagYkMIJ73Cb-12" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;HTTP、HTTPS、TLS&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TFR5mBkasagYkMIJ73Cb-11">
           <mxGeometry x="-0.3333" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="40" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
