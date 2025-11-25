@@ -113,7 +113,7 @@
             <mxPoint y="2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TFR5mBkasagYkMIJ73Cb-5" value="数据库服务器RDS" style="shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.cloud.data_bricks;fillColor=#2E73B8;pointerEvents=1;fontFamily=Helvetica;fontSize=18;fontColor=#010208;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="TFR5mBkasagYkMIJ73Cb-5" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.cloud.data_bricks;fillColor=#2E73B8;pointerEvents=1;fontFamily=Helvetica;fontSize=18;fontColor=#010208;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="565.5500000000001" y="503" width="88.89" height="100" as="geometry" />
         </mxCell>
       </root>
