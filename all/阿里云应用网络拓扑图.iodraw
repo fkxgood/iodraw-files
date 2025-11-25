@@ -20,7 +20,7 @@
         <mxCell id="f9D-XmoamsGJGm7qicV2-9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;fontSize=16;fontColor=#010208;" parent="1" source="f9D-XmoamsGJGm7qicV2-10" target="f9D-XmoamsGJGm7qicV2-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="f9D-XmoamsGJGm7qicV2-10" value="阿里云安全访问与安全预警" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CC0606;fillColor=none;fontSize=16;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;fontColor=#CC0606;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="f9D-XmoamsGJGm7qicV2-10" value="中转服务器" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CC0606;fillColor=none;fontSize=16;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;fontColor=#CC0606;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="540" y="438.5" width="140" height="231.5" as="geometry" />
         </mxCell>
         <mxCell id="f9D-XmoamsGJGm7qicV2-14" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#4D4D4D;strokeWidth=9;fillColor=none;fontSize=16;fontColor=#000000;" parent="1" vertex="1">
@@ -114,7 +114,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TFR5mBkasagYkMIJ73Cb-5" value="数据库服务器RDS" style="shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.cloud.data_bricks;fillColor=#2E73B8;pointerEvents=1;fontFamily=Helvetica;fontSize=18;fontColor=#010208;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="565.5500000000001" y="530" width="88.89" height="100" as="geometry" />
+          <mxGeometry x="565.5500000000001" y="503" width="88.89" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
