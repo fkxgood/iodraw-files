@@ -23,9 +23,6 @@
             <mxPoint y="2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f9D-XmoamsGJGm7qicV2-33" value="阿里云应用网络拓扑图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=36;fontColor=#010208;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="550" y="90" width="550" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="TFR5mBkasagYkMIJ73Cb-1" value="用户" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.intune.user_group;fillColor=#505050;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="180" y="700" width="80" height="60" as="geometry" />
         </mxCell>
