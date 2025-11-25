@@ -111,8 +111,16 @@
         <mxCell id="TFR5mBkasagYkMIJ73Cb-1" value="用户" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.intune.user_group;fillColor=#505050;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="90" y="715.5" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TFR5mBkasagYkMIJ73Cb-2" value="HTTP、HTTPS、TLS" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=16;fontColor=#000000;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="310" y="775.5" as="geometry" />
+        <mxCell id="TFR5mBkasagYkMIJ73Cb-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;fontColor=#CC0606;strokeWidth=2;exitX=0.788;exitY=0.642;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="TFR5mBkasagYkMIJ73Cb-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="410" as="sourcePoint" />
+            <mxPoint x="550" y="649" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TFR5mBkasagYkMIJ73Cb-4" value="HTTP、HTTPS、TLS" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=16;fontColor=#000000;" vertex="1" connectable="0" parent="TFR5mBkasagYkMIJ73Cb-3">
+          <mxGeometry x="-0.3516" relative="1" as="geometry">
+            <mxPoint y="2" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
