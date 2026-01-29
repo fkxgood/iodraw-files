@@ -61,7 +61,7 @@
           <mxGeometry x="1165.25" y="530" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TFR5mBkasagYkMIJ73Cb-26" value="" style="group;fontColor=#000000;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="540" y="390.00000000000006" width="140" height="181.5" as="geometry" />
+          <mxGeometry x="650" y="390.00000000000006" width="140" height="181.5" as="geometry" />
         </mxCell>
         <mxCell id="TFR5mBkasagYkMIJ73Cb-27" value="&lt;font color=&quot;#000000&quot;&gt;控制端&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CC0606;fillColor=none;fontSize=16;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;fontColor=#CC0606;strokeWidth=2;" parent="TFR5mBkasagYkMIJ73Cb-26" vertex="1">
           <mxGeometry width="140" height="181.5" as="geometry" />
